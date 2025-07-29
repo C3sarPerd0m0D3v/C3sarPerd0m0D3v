@@ -1,6 +1,6 @@
 <img src="bannerDevCes.png" alt="Cesar Perdomo Developer Banner" style="width:100%; border-radius: 12px;" />
 
-## 👋 Hi there, I'm Cesar Perdomo
+## 👋 How´s it going?, I'm Cesar Perdomo
 
 🚀 I am a passionate software developer focused on building modern and scalable web applications using  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" />  
