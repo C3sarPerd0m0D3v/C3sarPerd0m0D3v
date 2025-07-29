@@ -1,6 +1,6 @@
 <img src="./assets/bannerDevCes.png" alt="Cesar Perdomo Developer Banner" style="width:100%; border-radius: 12px;" />
 
-<img src="./assets/coding-scroll.gif" alt="Code Animation" style="width:100%; border-radius: 12px;" />
+<img src="./assets/coding-scroll.gif" alt="Code Animation" style="width:100%; border-radius: 12px; display: block; margin: 0 auto;" />
 
 
 ## 👋 Hello Everyone, I'm Cesar Perdomo
