@@ -1,7 +1,10 @@
 <img src="./assets/bannerDevCes.png" alt="Cesar Perdomo Developer Banner" style="width:100%; border-radius: 12px;" />
 
-<img src="./assets/coding-scroll.gif" alt="Code Animation" style="width:100%; border-radius: 12px; display: block; margin-left: auto; margin-right: auto;" />
-<img src="./assets/code.gif" alt="Code Gif 1" style="display: inline-block; width: 300px; margin-right: 10px;" />
+<div style="text-align: center;">
+  <img src="./assets/code.gif" alt="Code Gif 1" width="300" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="./assets/coding-scroll.gif" alt="Code Gif 2" width="300" style="vertical-align: middle;" />
+</div>
+
 
 ## 👋 Hello Everyone, I'm Cesar Perdomo
 
