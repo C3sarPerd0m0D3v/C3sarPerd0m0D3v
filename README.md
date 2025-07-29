@@ -1,15 +1,15 @@
 <img src="./assets/bannerDevCes.png" alt="Cesar Perdomo Developer Banner" style="width:100%; border-radius: 12px;" />
 
-## 👋 Hi Everyone !!, I'm Cesar Perdomo
+## 👋 Hello Everyone, I'm Cesar Perdomo
 
 🚀 I am a passionate software developer focused on building modern and scalable web applications using a variety of programming languages and cloud technologies.
 
 My current goals include:
-- 🧩 Designing and consuming secure RESTful APIs
-- 💡 Creating clean, maintainable frontend architectures with React
-- 🛠️ Integrating relational databases like MySQL with dynamic applications
-- 🔐 Implementing authentication flows using JWT and token-based systems
-- ☁️ Exploring the power of Cloud computing for application deployment
+- 🧩 Designing and consuming secure RESTful APIs  
+- 💡 Creating clean, maintainable frontend architectures with React  
+- 🛠️ Integrating relational databases like MySQL with dynamic applications  
+- 🔐 Implementing authentication flows using JWT and token-based systems  
+- ☁️ Exploring the power of Cloud computing for application deployment  
 
 ---
 
@@ -24,8 +24,8 @@ My current goals include:
 
 ### 🎥 Featured Projects (Coming Soon)
 
-[![▶ App Analizador de Tráfico Web con Python](https://img.shields.io/badge/-App%20Analizador%20de%20Tr%C3%A1fico%20Web%20con%20Python-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-1-here)  
-[![▶ App Gestión de Inventarios](https://img.shields.io/badge/-App%20Gesti%C3%B3n%20de%20Inventarios-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-2-here)  
+[![▶ Web Traffic Analyzer App (Python)](https://img.shields.io/badge/-Web%20Traffic%20Analyzer%20App%20(Python)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-1-here)  
+[![▶ Inventory Management App](https://img.shields.io/badge/-Inventory%20Management%20App-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-2-here)  
 <!-- Replace each link when your videos are published -->
 
 ---
