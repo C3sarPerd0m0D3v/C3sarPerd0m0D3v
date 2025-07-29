@@ -26,10 +26,8 @@ My current goals include:
 
 #### 🔸 Web Traffic Analyzer App (Python)
 <!-- Replace VIDEO_ID_1 with your YouTube video ID -->
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/VIDEO_ID_1" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Web Traffic Analyzer App (Python)](https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_1)
+> 📌 *Web application that analyzes web traffic data using Python and data visualization tools.*
 
 ---
 
