@@ -22,21 +22,11 @@ My current goals include:
 
 ---
 
-### 🎥 YouTube Projects (Preview Ready)
+### 🎥 YouTube Projects (Coming Soon)
 
-#### 🔸 Web Traffic Analyzer App (Python)
-<!-- Replace VIDEO_ID_1 with your YouTube video ID -->
-[![Web Traffic Analyzer](https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_1)
-> 📌 *Web application that analyzes web traffic data using Python and data visualization tools.*
-
----
-
-#### 🔸 Inventory Management App
-<!-- Replace VIDEO_ID_2 with your YouTube video ID -->
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/VIDEO_ID_2" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![▶ Web Traffic Analyzer App (Python)](https://img.shields.io/badge/-Web%20Traffic%20Analyzer%20App%20(Python)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-1-here)  
+[![▶ Inventory Management App](https://img.shields.io/badge/-Inventory%20Management%20App-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-2-here)  
+<!-- Replace each link when your videos are published -->
 
 ---
 
