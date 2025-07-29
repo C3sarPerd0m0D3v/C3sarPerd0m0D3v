@@ -1,6 +1,6 @@
 <img src="./assets/bannerDevCes.png" alt="Cesar Perdomo Developer Banner" style="width:100%; border-radius: 12px;" />
 
-## 👋 Hello Everyone, I'm Cesar Perdomo
+## 👋 Hi there, I'm Cesar Perdomo
 
 🚀 I am a passionate software developer focused on building modern and scalable web applications using a variety of programming languages and cloud technologies.
 
@@ -22,11 +22,23 @@ My current goals include:
 
 ---
 
-### 🎥 Featured Projects (Coming Soon)
+### 🎥 YouTube Projects (Preview Ready)
 
-[![▶ Web Traffic Analyzer App (Python)](https://img.shields.io/badge/-Web%20Traffic%20Analyzer%20App%20(Python)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-1-here)  
-[![▶ Inventory Management App](https://img.shields.io/badge/-Inventory%20Management%20App-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-2-here)  
-<!-- Replace each link when your videos are published -->
+#### 🔸 Web Traffic Analyzer App (Python)
+<!-- Replace VIDEO_ID_1 with your YouTube video ID -->
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VIDEO_ID_1" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+---
+
+#### 🔸 Inventory Management App
+<!-- Replace VIDEO_ID_2 with your YouTube video ID -->
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VIDEO_ID_2" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 ---
 
