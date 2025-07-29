@@ -40,4 +40,17 @@ My current goals include:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarperdomog/)  
 [![Gmail](https://img.shields.io/badge/-cesarp10801090@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesarp10801090@gmail.com)  
-[![🌐 PortfolioCesar (Coming Soon)](https://img.shields.io/badge/-PortfolioCesar-000?style=for-the-badge&logo=vercel&logoColor=white)]
+[![🌐 PortfolioCesar (Coming Soon)](https://img.shields.io/badge/-PortfolioCesar-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url-here.vercel.app)  
+<!-- Replace this URL once your portfolio is deployed -->
+
+---
+
+### 🎥 YouTube Projects (Coming Soon)
+
+[![▶ App Analizador de Tráfico Web con Python](https://img.shields.io/badge/-App%20Analizador%20de%20Tr%C3%A1fico%20Web%20con%20Python-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-1-here)  
+[![▶ App Gestión de Inventarios](https://img.shields.io/badge/-App%20Gesti%C3%B3n%20de%20Inventarios-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-2-here)  
+<!-- Replace each link when your videos are published -->
+
+---
+
+🧠 *“Discipline, innovation, and purpose drive everything I build.”*
