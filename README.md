@@ -1,6 +1,6 @@
 <img src="./assets/bannerDevCes.png" alt="Cesar Perdomo Developer Banner" style="width:100%; border-radius: 12px;" />
 
-## 👋 Hi there, I'm Cesar Perdomo
+## 👋 Hello Everyone, I'm Cesar Perdomo
 
 🚀 I am a passionate software developer focused on building modern and scalable web applications using a variety of programming languages and cloud technologies.
 
@@ -22,7 +22,7 @@ My current goals include:
 
 ---
 
-### 🎥 YouTube Projects (Coming Soon)
+### 🎥 Featured Projects (Coming Soon)
 
 [![▶ Web Traffic Analyzer App (Python)](https://img.shields.io/badge/-Web%20Traffic%20Analyzer%20App%20(Python)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-1-here)  
 [![▶ Inventory Management App](https://img.shields.io/badge/-Inventory%20Management%20App-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-2-here)  
