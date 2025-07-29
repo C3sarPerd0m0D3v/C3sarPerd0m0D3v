@@ -31,7 +31,7 @@ My current goals include:
 ### 🎥 Featured Projects (Coming Soon)
 
 [![▶ Web Traffic Analyzer App (Python)](https://img.shields.io/badge/-Web%20Traffic%20Analyzer%20App%20(Python)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-1-here)  
-[![▶ Inventory Management App (Nodejs+Express)](https://img.shields.io/badge/-Inventory%20Management%20App(Nodejs+Express)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-2-here)  
+[![▶ Inventory Management App (Nodejs+Express)](https://img.shields.io/badge/-Inventory%20Management%20App (Nodejs+Express)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-youtube-video-url-2-here)  
 <!-- Replace each link when your videos are published -->
 
 ---
