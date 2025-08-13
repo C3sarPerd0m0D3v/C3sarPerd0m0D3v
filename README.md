@@ -1,4 +1,4 @@
-<img src="./assets/bannerDevCes.png" alt="Cesar Perdomo Developer Banner" style="width:100%; border-radius: 12px;" />
+<img src="./assets/6751e887776f1f70640b57cdbea7d5d2.jpg" alt="Cesar Perdomo Developer Banner" style="width:100%; border-radius: 12px;" />
 
 <div style="text-align: center;">
   <img src="./assets/code.gif" alt="Code Gif 1" width="300" style="vertical-align: middle; margin-right: 10px;" />
